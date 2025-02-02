@@ -11,10 +11,25 @@
    - Panel Data
 2. **Linear Regression Model**
    - Simple Linear Regression Model
+     - Functional Forms
    - Multiple Linear Regression (MLR) Model
      - MLR with Polynomial Terms
      - MLR with Interaction Terms
      - MLR with Dummy Variable Concept
+   - Violations of Regression Assumptions
+   - Visualizing Regression Models
+3. **Generalized Linear Models**
+   - Linear Probability Model
+   - Logistic (or Logit) Regression Model
+   - Probit (or Normit) Model
+   - Poisson Regression Model
+   - Tobit Model
+   - Heckman Model
+4. **Simultaneous Equation Models**
+5. **Time Series Analysis**
+   - Time Series Concepts
+     - 
+
 
 ### The outline will be updated with time...
 ### Be sure to subscribe to my [YouTube Channel](https://www.youtube.com/c/@ElijahAppiah) and activate the notification bell to receive the alert whenever I post a video. More interesting lessons are coming!
