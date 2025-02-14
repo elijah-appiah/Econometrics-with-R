@@ -12,7 +12,7 @@
 2. **Simple Regression Analysis**
    - Nature and Estimation
    - Functional Forms of Regression Models (Log-Log model, Log-Linear model, Linear-Log model,  Reciprocal model, etc...)
-3. **Multiple Regression Analysis** 
+3. **Multiple Regression Analysis**
    - Nature and Estimation
    - Polynomial Regression Models
    - Dummy Variable Regression Models
