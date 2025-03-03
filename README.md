@@ -20,7 +20,7 @@
      - ANOVA Models (only qualitative regressors)
      - ANCOVA Models (mixture of quantitative and qualitative regressors)
    - Assumptions of Classical Linear Regression Model Revisited
-4. **Violations of Cross-Sectional Regression Assumptions**
+4. **Violations of Cross-Sectional Regression Assumptions** 
    - Multicollinearity
    - Heteroscedasticity
    - Autocorrelation
